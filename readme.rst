@@ -9,7 +9,6 @@ Qué incluye
 Libraries:
 -  Community IRC
 
-
 **************************
 Changelog and New Features
 **************************
