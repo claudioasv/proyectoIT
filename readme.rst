@@ -6,8 +6,9 @@ Proyecto base para cualquier desarrollo dentro del Holding Surfrut
 Qué incluye
 *******************
 
-Libraries:
--  Community IRC
+Bibliotecas:
+-  URL
+-  DATABASE
 
 **************************
 Changelog and New Features
